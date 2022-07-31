@@ -90,3 +90,17 @@ body {
     border-radius: 12px;
     font-family: 'Epilogue', sans-serif;
   }
+
+  .row {
+    display: flex;
+  }
+  
+  .column {
+    flex: 50%;
+    padding: 7rem;
+  }
+
+  .left-header {
+    font-size: 72px;
+    font-weight: 700;
+  }
